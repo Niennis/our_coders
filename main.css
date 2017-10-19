@@ -1,0 +1,27 @@
+hr{
+	width:8%;
+	position:relative;
+	left:-46%;
+	border: 1px solid black;
+}
+
+td{
+	height:220px;
+	width:220px;
+	position:relative;
+}
+
+p{
+	position:relative;
+	z-index:2;
+	bottom:20%;
+	right:12%;
+	color:white;
+	text-align: right;
+	text-shadow: 2px 2px 2px black; 
+}
+
+img{
+	position:relative;
+	filter: grayscale(50%) hue-rotate(45deg);
+}
